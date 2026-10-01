@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 1h | 1 |
+| Warm-up | Tier 1 | 6.8h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-01 — For my first work session, I focused on setting up the foundation for my High-Performance Robotic Arm project. I created my public GitHub repository and successfully synced it to the Hack Club dashboa
 
-**1h**
+**6.8h**
 
 For my first work session, I focused on setting up the foundation for my High-Performance Robotic Arm project. I created my public GitHub repository and successfully synced it to the Hack Club dashboard to track my progress.
 I also began planning the core hardware, starting with the ESP32-C3 SuperMini as my main microcontroller. I spent time researching how to wire and code multiple servos for the arm's joints and the gripper to ensure precise, smooth movement. My next step is to research the exact motors and structure materials I need so I can fill out my Bill of Materials.
